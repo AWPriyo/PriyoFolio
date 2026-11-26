@@ -1,6 +1,6 @@
 <div align="center">
 
-### PriyoFolio
+# PriyoFolio
 
 ### A personal portfolio by Abdul Wadud Priyo
 

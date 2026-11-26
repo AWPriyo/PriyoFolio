@@ -4,7 +4,7 @@
 
 ### A personal portfolio by Abdul Wadud Priyo
 
-Showcasing my journey in computer science, web development, and AI/ML.
+Showcasing my journey in computer science, web development, app development and AI/ML.
 
 [![GitHub repository](https://img.shields.io/badge/GitHub-AWPriyo%2FPriyoFolio-181717?style=for-the-badge&logo=github)](https://github.com/AWPriyo/PriyoFolio)
 [![Built with HTML, CSS and JavaScript](https://img.shields.io/badge/Built%20with-HTML%20%7C%20CSS%20%7C%20JavaScript-6c63ff?style=for-the-badge)](#tech-stack)
